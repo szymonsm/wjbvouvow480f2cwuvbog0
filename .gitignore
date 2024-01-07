@@ -2,3 +2,5 @@
 data_refresh.ipynb
 update_script.py
 test.py
+**/^GSPC
+**/EURUSD=X
